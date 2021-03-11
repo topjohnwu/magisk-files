@@ -1,13 +1,17 @@
 {
-  "totalString": "140,523,707",
-  "total": 140523707,
+  "totalString": "142,128,957",
+  "total": 142128957,
   "type": {
-    "apk": 60678367,
-    "zip": 79845340
+    "apk": 61810187,
+    "zip": 80318770
   },
   "source": {
-    "github": 115030862,
-    "jsdelivr": 1900,
+    "github": 115031471,
+    "jsdelivr": 1606541,
     "xda": 25490945
+  },
+  "release": {
+    "public": 140524316,
+    "canary": 1604641
   }
 }
