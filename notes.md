@@ -1,6 +1,9 @@
-## Magisk (43c1105d) (22004)
+## Magisk (f152b4c2) (22005)
 
-- Rewrite logfile writer from scratch, should resolve any crashes and deadlock
+- [General] Fix log writer implementation (yet again!)
+- [MagiskInit] Fix `sepolicy.rule` mounting strategy
+- [App] Cleanup fragment navigations
+- [MagiskBoot] Properly strip out data encryption flags
 
 ## Diffs to v22.0
 
@@ -9,3 +12,5 @@
 - [General] Proper cgroup migration implementation
 - [General] Rewrite log writer from scratch, should resolve any crashes and deadlock
 - [MagiskBoot] Preserve and patch AVB 2.0 structures/headers in boot images
+- [MagiskBoot] Properly strip out data encryption flags
+- [MagiskInit] Fix `sepolicy.rule` mounting strategy
