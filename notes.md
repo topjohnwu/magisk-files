@@ -1,11 +1,7 @@
-## Magisk (66e30a77) (22006)
+## Magisk (9c0e1897) (22007)
 
-- [App] Fix app crashing when download + install modules
-- [MagiskHide] Prevent possible deadlock when signal arrives
-- [MagiskHide] Partial match process names if necessary
-- [MagiskHide] Don't include MicroG SafetyNet process by default
-- [MagiskBoot] Prevent possible integer overflow
-- [General] Many scripts updates fixing regressions
+- [General] Fix logic to copy `sepolicy.rule` during module installation
+- [resetprop] Always delete existing `ro.` props before updating. This will fix bootloops that could be caused by modifying device fingerprint properties.
 
 ## Diffs to v22.0
 
@@ -20,3 +16,4 @@
 - [MagiskBoot] Properly strip out data encryption flags
 - [MagiskBoot] Prevent possible integer overflow
 - [MagiskInit] Fix `sepolicy.rule` mounting strategy
+- [resetprop] Always delete existing `ro.` props before updating. This will fix bootloops that could be caused by modifying device fingerprint properties.
