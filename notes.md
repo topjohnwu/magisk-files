@@ -1,8 +1,8 @@
-## Magisk (d7e7df3b) (23010)
+## Magisk (ea75a09f) (23011)
 
-A new chapter for Magisk!
-
-For those who missed my blog post, please check [here](https://topjohnwu.medium.com/state-of-magisk-2021-fe29fdaee458?source=friends_link&sk=2baadecfa78cbba8a41671e13b244bf1)
+- Make Zygisk survive zygote restarts
+- Fix crashes when Magisk environment was not properly setup.
+This will fix the crashes experienced after installing Magisk with patching boot images.
 
 ## Diffs to v23.0
 
@@ -10,7 +10,7 @@ For those who missed my blog post, please check [here](https://topjohnwu.medium.
 - [General] Support 64-bit only systems
 - [General] Support Android 12
 - [Zygisk] Introduce new feature: Zygisk
-- [Zygisk] Introduce DenyList feature to revert Magisk features in use selected processes
+- [Zygisk] Introduce DenyList feature to revert Magisk features in user selected processes
 - [MagiskBoot] Support patching 32-bit kernel zImages
 - [MagiskBoot] Support boot image header v4
 - [MagiskInit] Support `/proc/bootconfig` for loading boot configurations
@@ -20,4 +20,4 @@ For those who missed my blog post, please check [here](https://topjohnwu.medium.
 - [resetprop] Deleted properties are now wiped from memory instead of just unlinking
 - [App] Build a single APK for all ABIs
 - [App] Switch to use standard bottom navigation bar
-- [App] Downloading modules the Magisk app is removed
+- [App] Downloading modules within the Magisk app is removed
