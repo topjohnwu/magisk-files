@@ -1,12 +1,8 @@
-## Magisk (d232cba0) (23012)
+## Magisk (258e89c9) (23013)
 
-- DenyList unmounts no longer require an additional IPC
-- Replace module fds with memfd to prevent dumb maps name scanning
-- Fix Zygisk first stage unloading
-- [MagiskSU] Fix the shell if isolated mount namespace is set
-- [MagiskPolicy] Load `*_compat_cil_file` from system_ext
-- [MagiskInit] Support `init.real` on some Sony devices
-- [MagiskBoot] Support patching out `skip_initramfs` from dtb bootargs
+- Several bug fixes
+- Update DenyList app selection UI
+- Several app code migrations
 
 ## Diffs to v23.0
 
