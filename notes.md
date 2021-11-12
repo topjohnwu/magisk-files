@@ -1,8 +1,9 @@
-## Magisk (258e89c9) (23013)
+## Magisk (7e9d4512) (23014)
 
-- Several bug fixes
-- Update DenyList app selection UI
-- Several app code migrations
+- Fix crashes when multiple Zygisk module is installed
+- Fix crashes in `magiskboot` under certain circumstances
+- Always unload Zygisk itself after post specialize
+- Add module suspension state in Magisk app (riru/zygisk modules)
 
 ## Diffs to v23.0
 
