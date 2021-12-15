@@ -1,11 +1,11 @@
-## Magisk (5d6d2417) (23015)
+## Magisk (92546e8a) (23016)
 
-- Cleanup unclosed fds leftover from Zygisk modules
-- Fix parallel app info fetching in DenyList UI to speed things up
-- Export `ZYGISK_ENABLED` to boot scripts if Zygisk is enabled
-- Fix v4 vendor boot unpacking/repacking
-- Add new env variable `KEEPVBMETAFLAG` to toggle configure vbmeta flags should be preserved
-- Update BusyBox to 1.34.1
+- Fixed a possible AVB header misalignment
+- Add new env variable `PATCHVBMETAFLAG` to configure whether vbmeta flags should be patched
+- Only hijack `unshare` calls with `CLONE_NEWNS` bit set
+- Improved support for devices with `oplus.fstab` (OnePlus/Oppo/Realme)
+- Support loading fstab from `/system/etc` (Pixel 6 Dec. Patch)
+- Various Magisk app fixes
 
 ## Diffs to v23.0
 
@@ -18,10 +18,11 @@
 - [MagiskBoot] Support patching 32-bit kernel zImages
 - [MagiskBoot] Support boot image header v4
 - [MagiskBoot] Support patching out `skip_initramfs` from dtb bootargs
-- [MagiskBoot] Add new env variable `KEEPVBMETAFLAG` to configure whether vbmeta flags should be preserved
+- [MagiskBoot] Add new env variable `PATCHVBMETAFLAG` to configure whether vbmeta flags should be patched
+- [MagiskInit] Support loading fstab from `/system/etc` (required for Pixel 6)
 - [MagiskInit] Support `/proc/bootconfig` for loading boot configurations
 - [MagiskInit] Better support for some Meizu devices
-- [MagiskInit] Better support for some Oppo/Realme devices
+- [MagiskInit] Better support for some OnePlus/Oppo/Realme devices
 - [MagiskInit] Support `init.real` on some Sony devices
 - [MagiskPolicy] Load `*_compat_cil_file` from system_ext
 - [MagiskSU] Use isolated devpts if the kernel supports it
