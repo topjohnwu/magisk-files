@@ -1,11 +1,14 @@
-## Magisk (92546e8a) (23016)
+## Magisk (5f4cd50c) (23017)
 
-- Fixed a possible AVB header misalignment
-- Add new env variable `PATCHVBMETAFLAG` to configure whether vbmeta flags should be patched
-- Only hijack `unshare` calls with `CLONE_NEWNS` bit set
-- Improved support for devices with `oplus.fstab` (OnePlus/Oppo/Realme)
-- Support loading fstab from `/system/etc` (Pixel 6 Dec. Patch)
-- Various Magisk app fixes
+- [MagiskInit] Fallback to default fstab if dt fstab contains errors
+- [MagiskInit] Skip loading Magisk when detecting DSU
+- [DenyList] Support listing, adding, and removing processes from the denylist regardless of enforcement status
+- [Zygisk] Add new APIs (not finalized yet, please wait for actual publication)
+- [App] Support user configuration of boot image vbmeta patching
+- [App] Add DNS-Over-HTTPS option back
+- [App] Restore the ability to install Magisk on the other slot on some A/B devices
+- [App] Partial module update checking support (not complete, still WIP)
+- [App] Many bug fixes
 
 ## Diffs to v23.0
 
@@ -24,10 +27,13 @@
 - [MagiskInit] Better support for some Meizu devices
 - [MagiskInit] Better support for some OnePlus/Oppo/Realme devices
 - [MagiskInit] Support `init.real` on some Sony devices
+- [MagiskInit] Skip loading Magisk when detecting DSU
 - [MagiskPolicy] Load `*_compat_cil_file` from system_ext
 - [MagiskSU] Use isolated devpts if the kernel supports it
 - [MagiskSU] Fix root shell if isolated mount namespace is set
 - [resetprop] Deleted properties are now wiped from memory instead of just unlinking
 - [App] Build a single APK for all ABIs
 - [App] Switch to use standard bottom navigation bar
-- [App] Downloading modules within the Magisk app is removed
+- [App] Downloading modules from the centralized Magisk-Modules-Repo is removed
+- [App] Support user configuration of boot image vbmeta patching
+- [App] Restore the ability to install Magisk on the other slot on some A/B devices
