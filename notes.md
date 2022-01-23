@@ -1,14 +1,7 @@
-## Magisk (5f4cd50c) (23017)
+## Magisk (cbe97cdf) (23018)
 
-- [MagiskInit] Fallback to default fstab if dt fstab contains errors
-- [MagiskInit] Skip loading Magisk when detecting DSU
-- [DenyList] Support listing, adding, and removing processes from the denylist regardless of enforcement status
-- [Zygisk] Add new APIs (not finalized yet, please wait for actual publication)
-- [App] Support user configuration of boot image vbmeta patching
-- [App] Add DNS-Over-HTTPS option back
-- [App] Restore the ability to install Magisk on the other slot on some A/B devices
-- [App] Partial module update checking support (not complete, still WIP)
-- [App] Many bug fixes
+- [Zygisk] Show warning in app UI to indicate incompatible Zygisk modules
+- [App] Allow modules to specify an update URL for in-app update + install
 
 ## Diffs to v23.0
 
@@ -37,3 +30,4 @@
 - [App] Downloading modules from the centralized Magisk-Modules-Repo is removed
 - [App] Support user configuration of boot image vbmeta patching
 - [App] Restore the ability to install Magisk on the other slot on some A/B devices
+- [App] Allow modules to specify an update URL for in-app update + install
