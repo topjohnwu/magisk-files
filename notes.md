@@ -1,7 +1,8 @@
-## Magisk (cbe97cdf) (23018)
+## Magisk (ac13ac14) (23019)
 
-- [Zygisk] Show warning in app UI to indicate incompatible Zygisk modules
-- [App] Allow modules to specify an update URL for in-app update + install
+- [Zygisk] Skip loading modules into the Magisk app to prevent conflicts
+- [MagiskBoot] Change `zopfli` to a more reasonable config so it doesn't take forever
+- [General] Several `BusyBox` changes
 
 ## Diffs to v23.0
 
