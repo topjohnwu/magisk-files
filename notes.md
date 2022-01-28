@@ -1,7 +1,7 @@
-## Magisk (e8f31c78) (24001)
+## Magisk (32fc34f9) (24101)
 
-- Sync with public v24.0 release
+- Sync with public v24.1 release
 
-## Diffs to v24.0
+## Diffs to v24.1
 
 - None
