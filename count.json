@@ -1,232 +1,232 @@
 {
-  "totalString": "193,018,637",
-  "total": 193018637,
+  "totalString": "193,724,843",
+  "total": 193724843,
   "type": {
-    "apk": 111383634,
-    "zip": 81635003
+    "apk": 111925150,
+    "zip": 81799693
   },
   "source": {
-    "github": 137562195,
-    "jsdelivr": 29966525,
+    "github": 137563002,
+    "jsdelivr": 30671924,
     "xda": 25489917
   },
   "release": {
-    "public": 189870148,
-    "canary": 3148489
+    "public": 190014009,
+    "canary": 3710834
   },
   "versions": {
     "24.1": {
-      "total": 336967,
+      "total": 1013441,
       "type": {
-        "apk": 336967,
+        "apk": 1013441,
         "zip": 0
       },
       "source": {
-        "github": 336967,
-        "jsdelivr": 0,
+        "github": 337472,
+        "jsdelivr": 675969,
         "xda": 0
       }
     },
     "24.0": {
-      "total": 74577,
+      "total": 121388,
       "type": {
-        "apk": 74577,
+        "apk": 121388,
         "zip": 0
       },
       "source": {
-        "github": 74577,
-        "jsdelivr": 0,
+        "github": 74595,
+        "jsdelivr": 46793,
         "xda": 0
       }
     },
     "23.0": {
-      "total": 16612786,
+      "total": 16412528,
       "type": {
-        "apk": 16612786,
+        "apk": 16412528,
         "zip": 0
       },
       "source": {
-        "github": 3323271,
-        "jsdelivr": 13289515,
+        "github": 3323365,
+        "jsdelivr": 13089163,
         "xda": 0
       }
     },
     "22.1": {
-      "total": 13935580,
+      "total": 13555887,
       "type": {
-        "apk": 13935580,
+        "apk": 13555887,
         "zip": 0
       },
       "source": {
-        "github": 462272,
-        "jsdelivr": 13473308,
+        "github": 462289,
+        "jsdelivr": 13093598,
         "xda": 0
       }
     },
     "22.0": {
-      "total": 1528774,
+      "total": 1529146,
       "type": {
-        "apk": 1528774,
+        "apk": 1529146,
         "zip": 0
       },
       "source": {
-        "github": 1473561,
-        "jsdelivr": 55213,
+        "github": 1473579,
+        "jsdelivr": 55567,
         "xda": 0
       }
     },
     "21.4": {
-      "total": 1986701,
+      "total": 1986747,
       "type": {
-        "apk": 746495,
-        "zip": 1240206
+        "apk": 746506,
+        "zip": 1240241
       },
       "source": {
-        "github": 1986701,
+        "github": 1986747,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "21.3": {
-      "total": 82373,
+      "total": 82375,
       "type": {
         "apk": 33029,
-        "zip": 49344
+        "zip": 49346
       },
       "source": {
-        "github": 82373,
+        "github": 82375,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "21.2": {
-      "total": 664084,
+      "total": 664091,
       "type": {
-        "apk": 362723,
-        "zip": 301361
+        "apk": 362727,
+        "zip": 301364
       },
       "source": {
-        "github": 664084,
+        "github": 664091,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "21.1": {
-      "total": 1027772,
+      "total": 1027780,
       "type": {
-        "apk": 619053,
-        "zip": 408719
+        "apk": 619054,
+        "zip": 408726
       },
       "source": {
-        "github": 1027772,
+        "github": 1027780,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "21.0": {
-      "total": 1445691,
+      "total": 1445698,
       "type": {
-        "apk": 914530,
-        "zip": 531161
+        "apk": 914533,
+        "zip": 531165
       },
       "source": {
-        "github": 1445691,
+        "github": 1445698,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "20.4": {
-      "total": 3900619,
+      "total": 3900639,
       "type": {
         "apk": 0,
-        "zip": 3900619
+        "zip": 3900639
       },
       "source": {
-        "github": 3900619,
+        "github": 3900639,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "20.3": {
-      "total": 10692832,
+      "total": 10692855,
       "type": {
-        "apk": 6981616,
-        "zip": 3711216
+        "apk": 6981627,
+        "zip": 3711228
       },
       "source": {
-        "github": 10692832,
+        "github": 10692855,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "20.2": {
-      "total": 2151052,
+      "total": 2151054,
       "type": {
-        "apk": 1167075,
-        "zip": 983977
+        "apk": 1167076,
+        "zip": 983978
       },
       "source": {
-        "github": 2151052,
+        "github": 2151054,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "20.1": {
-      "total": 10226919,
+      "total": 10226920,
       "type": {
-        "apk": 5753794,
+        "apk": 5753795,
         "zip": 4473125
       },
       "source": {
-        "github": 10226919,
+        "github": 10226920,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "20.0": {
-      "total": 4623801,
+      "total": 4623805,
       "type": {
-        "apk": 2564508,
-        "zip": 2059293
+        "apk": 2564510,
+        "zip": 2059295
       },
       "source": {
-        "github": 4623801,
+        "github": 4623805,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "19.4": {
-      "total": 3252989,
+      "total": 3252990,
       "type": {
-        "apk": 2611765,
+        "apk": 2611766,
         "zip": 641224
       },
       "source": {
-        "github": 3252989,
+        "github": 3252990,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "19.3": {
-      "total": 8016125,
+      "total": 8016131,
       "type": {
         "apk": 0,
-        "zip": 8016125
+        "zip": 8016131
       },
       "source": {
-        "github": 8016125,
+        "github": 8016131,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "19.2": {
-      "total": 12986487,
+      "total": 12986488,
       "type": {
-        "apk": 11490805,
+        "apk": 11490806,
         "zip": 1495682
       },
       "source": {
-        "github": 12986487,
+        "github": 12986488,
         "jsdelivr": 0,
         "xda": 0
       }
@@ -244,37 +244,37 @@
       }
     },
     "19.0": {
-      "total": 4360864,
+      "total": 4360870,
       "type": {
-        "apk": 3554759,
-        "zip": 806105
+        "apk": 3554764,
+        "zip": 806106
       },
       "source": {
-        "github": 4360864,
+        "github": 4360870,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "18.1": {
-      "total": 9500415,
+      "total": 9500417,
       "type": {
-        "apk": 4623466,
-        "zip": 4876949
+        "apk": 4623467,
+        "zip": 4876950
       },
       "source": {
-        "github": 9500415,
+        "github": 9500417,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "18.0": {
-      "total": 8512780,
+      "total": 8512783,
       "type": {
-        "apk": 3907714,
-        "zip": 4605066
+        "apk": 3907715,
+        "zip": 4605068
       },
       "source": {
-        "github": 8512780,
+        "github": 8512783,
         "jsdelivr": 0,
         "xda": 0
       }
@@ -340,25 +340,25 @@
       }
     },
     "16.6": {
-      "total": 6994887,
+      "total": 6994900,
       "type": {
-        "apk": 6688985,
-        "zip": 305902
+        "apk": 6688997,
+        "zip": 305903
       },
       "source": {
-        "github": 6994887,
+        "github": 6994900,
         "jsdelivr": 0,
         "xda": 0
       }
     },
     "16.4": {
-      "total": 3765651,
+      "total": 3765652,
       "type": {
         "apk": 3153955,
-        "zip": 611696
+        "zip": 611697
       },
       "source": {
-        "github": 3765651,
+        "github": 3765652,
         "jsdelivr": 0,
         "xda": 0
       }
@@ -400,13 +400,13 @@
       }
     },
     "16.0": {
-      "total": 12516909,
+      "total": 12516910,
       "type": {
         "apk": 703450,
-        "zip": 11813459
+        "zip": 11813460
       },
       "source": {
-        "github": 6473199,
+        "github": 6473200,
         "jsdelivr": 0,
         "xda": 6043710
       }
@@ -496,13 +496,13 @@
       }
     },
     "14.3": {
-      "total": 1514266,
+      "total": 1514267,
       "type": {
-        "apk": 1263794,
+        "apk": 1263795,
         "zip": 250472
       },
       "source": {
-        "github": 1266278,
+        "github": 1266279,
         "jsdelivr": 0,
         "xda": 247988
       }
@@ -795,75 +795,135 @@
         "xda": 8746
       }
     },
-    "2022-01-20 (5f4cd50c)": {
-      "total": 42129,
+    "2022-02-06 (1a1b346c)": {
+      "total": 73082,
       "type": {
-        "apk": 42129,
+        "apk": 73082,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 42129,
+        "jsdelivr": 73082,
+        "xda": 0
+      }
+    },
+    "2022-01-28 (32fc34f9)": {
+      "total": 86452,
+      "type": {
+        "apk": 86452,
+        "zip": 0
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 86452,
+        "xda": 0
+      }
+    },
+    "2022-01-26 (e8f31c78)": {
+      "total": 27107,
+      "type": {
+        "apk": 27107,
+        "zip": 0
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 27107,
+        "xda": 0
+      }
+    },
+    "2022-01-25 (ac13ac14)": {
+      "total": 13905,
+      "type": {
+        "apk": 13905,
+        "zip": 0
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 13905,
+        "xda": 0
+      }
+    },
+    "2022-01-23 (cbe97cdf)": {
+      "total": 27202,
+      "type": {
+        "apk": 27202,
+        "zip": 0
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 27202,
+        "xda": 0
+      }
+    },
+    "2022-01-20 (5f4cd50c)": {
+      "total": 42203,
+      "type": {
+        "apk": 42203,
+        "zip": 0
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 42203,
         "xda": 0
       }
     },
     "2021-12-15 (92546e8a)": {
-      "total": 293361,
+      "total": 293316,
       "type": {
-        "apk": 293361,
+        "apk": 293316,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 293361,
+        "jsdelivr": 293316,
         "xda": 0
       }
     },
     "2021-11-24 (5d6d2417)": {
-      "total": 133836,
+      "total": 133808,
       "type": {
-        "apk": 133836,
+        "apk": 133808,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 133836,
+        "jsdelivr": 133808,
         "xda": 0
       }
     },
     "2021-11-12 (7e9d4512)": {
-      "total": 88622,
+      "total": 88586,
       "type": {
-        "apk": 88622,
+        "apk": 88586,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 88622,
+        "jsdelivr": 88586,
         "xda": 0
       }
     },
     "2021-11-07 (258e89c9)": {
-      "total": 46409,
+      "total": 46404,
       "type": {
-        "apk": 46409,
+        "apk": 46404,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 46409,
+        "jsdelivr": 46404,
         "xda": 0
       }
     },
     "2021-11-02 (d232cba0)": {
-      "total": 27566,
+      "total": 27563,
       "type": {
-        "apk": 27566,
+        "apk": 27563,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 27566,
+        "jsdelivr": 27563,
         "xda": 0
       }
     },
@@ -892,26 +952,26 @@
       }
     },
     "2021-05-12 (f822ca5b)": {
-      "total": 849705,
+      "total": 849210,
       "type": {
-        "apk": 849705,
+        "apk": 849210,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 849705,
+        "jsdelivr": 849210,
         "xda": 0
       }
     },
     "2021-05-10 (6b34ec3a)": {
-      "total": 41483,
+      "total": 41491,
       "type": {
-        "apk": 41483,
+        "apk": 41491,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 41483,
+        "jsdelivr": 41491,
         "xda": 0
       }
     },
@@ -928,38 +988,38 @@
       }
     },
     "2021-04-16 (f49966d8)": {
-      "total": 63450,
+      "total": 63455,
       "type": {
-        "apk": 63450,
+        "apk": 63455,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 63450,
+        "jsdelivr": 63455,
         "xda": 0
       }
     },
     "2021-04-10 (e136fb3a)": {
-      "total": 38894,
+      "total": 38897,
       "type": {
-        "apk": 38894,
+        "apk": 38897,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 38894,
+        "jsdelivr": 38897,
         "xda": 0
       }
     },
     "2021-04-09 (f623b988)": {
-      "total": 9597,
+      "total": 9595,
       "type": {
-        "apk": 9597,
+        "apk": 9595,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 9597,
+        "jsdelivr": 9595,
         "xda": 0
       }
     },
@@ -1024,26 +1084,26 @@
       }
     },
     "2021-03-07 (45e0df9c)": {
-      "total": 1908,
+      "total": 1924,
       "type": {
-        "apk": 1908,
+        "apk": 1924,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 1908,
+        "jsdelivr": 1924,
         "xda": 0
       }
     },
     "2021-03-03 (79ee85c0)": {
-      "total": 55,
+      "total": 53,
       "type": {
-        "apk": 55,
+        "apk": 53,
         "zip": 0
       },
       "source": {
         "github": 0,
-        "jsdelivr": 55,
+        "jsdelivr": 53,
         "xda": 0
       }
     },
@@ -1264,14 +1324,146 @@
       }
     },
     "2020-12-29 (6d88d8ad)": {
-      "total": 124013,
+      "total": 177722,
       "type": {
-        "apk": 54112,
-        "zip": 69901
+        "apk": 81999,
+        "zip": 95723
       },
       "source": {
         "github": 0,
-        "jsdelivr": 124013,
+        "jsdelivr": 177722,
+        "xda": 0
+      }
+    },
+    "2020-12-28 (b51b884f)": {
+      "total": 22655,
+      "type": {
+        "apk": 13879,
+        "zip": 8776
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 22655,
+        "xda": 0
+      }
+    },
+    "2020-12-20 (d0896984)": {
+      "total": 90921,
+      "type": {
+        "apk": 43272,
+        "zip": 47649
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 90921,
+        "xda": 0
+      }
+    },
+    "2020-11-07 (dc5e78e1)": {
+      "total": 217,
+      "type": {
+        "apk": 142,
+        "zip": 75
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 217,
+        "xda": 0
+      }
+    },
+    "2020-11-07 (2739d3cb)": {
+      "total": 51452,
+      "type": {
+        "apk": 26236,
+        "zip": 25216
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 51452,
+        "xda": 0
+      }
+    },
+    "2020-10-12 (872c5520)": {
+      "total": 58443,
+      "type": {
+        "apk": 28893,
+        "zip": 29550
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 58443,
+        "xda": 0
+      }
+    },
+    "2020-10-12 (339ca6d6)": {
+      "total": 74,
+      "type": {
+        "apk": 63,
+        "zip": 11
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 74,
+        "xda": 0
+      }
+    },
+    "2020-10-11 (efb1eab3)": {
+      "total": 15135,
+      "type": {
+        "apk": 11571,
+        "zip": 3564
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 15135,
+        "xda": 0
+      }
+    },
+    "2020-10-08 (d4d837a5)": {
+      "total": 2111,
+      "type": {
+        "apk": 1669,
+        "zip": 442
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 2111,
+        "xda": 0
+      }
+    },
+    "2020-10-08 (04995881)": {
+      "total": 35352,
+      "type": {
+        "apk": 15236,
+        "zip": 20116
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 35352,
+        "xda": 0
+      }
+    },
+    "2020-10-07 (f0f1cdc5)": {
+      "total": 5030,
+      "type": {
+        "apk": 1662,
+        "zip": 3368
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 5030,
+        "xda": 0
+      }
+    },
+    "2020-10-03 (64effe93)": {
+      "total": 8,
+      "type": {
+        "apk": 6,
+        "zip": 2
+      },
+      "source": {
+        "github": 0,
+        "jsdelivr": 8,
         "xda": 0
       }
     }
