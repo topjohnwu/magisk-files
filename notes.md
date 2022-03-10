@@ -1,7 +1,7 @@
-## Magisk (7cfce9ff) (24201)
+## Magisk (2c092ffd) (24301)
 
 - Sync with public release
 
-## Diffs to v24.2
+## Diffs to v24.3
 
 None
