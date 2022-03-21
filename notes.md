@@ -1,4 +1,6 @@
-## Magisk (87613269) (24303)
+## Magisk (3dc7d77e) (24304)
+
+Fixed several compatibility issues with `magiskinit`
 
 ## Diffs to v24.3
 
