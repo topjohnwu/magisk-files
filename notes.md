@@ -1,10 +1,8 @@
-## Magisk (63a89d9f) (24306)
+## Magisk (cc79a96f) (24307)
 
-- [App] Fix incorrect superuser snackbar text
-- [MagiskInit] Improvements to sepolicy hijack
-- [MagiskInit] Use `LD_PRELOAD` on 2SI init to assist hijack
-- [MagiskInit] Support Oculus Go
-- [MagiskSU] Fix a possible crash in `magiskd`
+- [App] Update libsu with 100% new I/O layer
+- [MagiskInit] Mock enforce file with regular file to prevent possible race condition
+- Switch normal NDK with ONDK, preparing the toolchain to introduce Rust
 
 ## Diffs to v24.3
 
