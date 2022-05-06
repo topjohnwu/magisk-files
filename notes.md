@@ -1,8 +1,6 @@
-## Magisk (cc79a96f) (24307)
+## Magisk (42e5f515) (24308)
 
-- [App] Update libsu with 100% new I/O layer
-- [MagiskInit] Mock enforce file with regular file to prevent possible race condition
-- Switch normal NDK with ONDK, preparing the toolchain to introduce Rust
+- Several minor bug fixes
 
 ## Diffs to v24.3
 
