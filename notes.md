@@ -1,6 +1,6 @@
-## Magisk (c11ccbae) (24310)
+## Magisk (dc65a2b8) (24311)
 
-- [MagiskBoot] Fix vbmeta extraction implementation
+- Introduce new debug channel. Canary builds are now built in release mode, and debug builds are now required for bug reports.
 
 ## Diffs to v24.3
 
