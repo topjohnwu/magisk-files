@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "c11ccbae",
+    "versionCode": "24310",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@379a6f08e9c5736a3f810d44d444ef13533d4b12/app-debug.apk",
+    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@379a6f08e9c5736a3f810d44d444ef13533d4b12/notes.md"
+  },
+  "stub": {
+    "versionCode": "28",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@379a6f08e9c5736a3f810d44d444ef13533d4b12/stub-release.apk"
+  }
+}
