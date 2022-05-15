@@ -1,4 +1,4 @@
-## Magisk (dc65a2b8) (24311)
+## Magisk (756d8356) (24312)
 
 - Introduce new debug channel. Canary builds are now built in release mode, and debug builds are now required for bug reports.
 
