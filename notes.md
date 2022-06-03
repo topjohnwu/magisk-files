@@ -1,7 +1,8 @@
-## Magisk (bf04fa13) (24314)
+## Magisk (2106751e) (24315)
 
-- [App] Fix language switch
-- [MagiskSU] Handle `system_server` restarts to prevent UID reuse abuse
+- [MagiskSU] [Zygisk] Proper package management and detection
+- [Zygisk] Fix Zygisk's self code unloading implementation
+- [App] Many many fixes, especially on older Android devices
 
 ## Diffs to v24.3
 
@@ -15,6 +16,8 @@
 - [MagiskSU] Prune unused UIDs as soon as possible to prevent UID reuse attacks
 - [MagiskSU] Verify and enforce the installed Magisk app's certificate to match the distributor's signature
 - [MagiskSU] Handle `system_server` restarts to prevent UID reuse abuse
+- [MagiskSU] [Zygisk] Proper package management and detection
 - [Zygisk] Fix function hooking on devices running Android 12 with old kernels
+- [Zygisk] Fix Zygisk's self code unloading implementation
 - [DenyList] Fix DenyList on shared UID apps
 - [BusyBox] Add workaround for devices running old kernels
