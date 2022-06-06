@@ -1,8 +1,6 @@
-## Magisk (2106751e) (24315)
+## Magisk (34b2f525) (24316)
 
-- [MagiskSU] [Zygisk] Proper package management and detection
-- [Zygisk] Fix Zygisk's self code unloading implementation
-- [App] Many many fixes, especially on older Android devices
+- [App] Fix stub app on older Android versions
 
 ## Diffs to v24.3
 
@@ -12,6 +10,7 @@
 - [MagiskInit] Support Android 13 GKIs (Pixel 6)
 - [MagiskBoot] Fix vbmeta extraction implementation
 - [App] [MagiskSU] Properly support apps using shared UID
+- [App] Fix stub app on older Android versions
 - [MagiskSU] Fix a possible crash in `magiskd`
 - [MagiskSU] Prune unused UIDs as soon as possible to prevent UID reuse attacks
 - [MagiskSU] Verify and enforce the installed Magisk app's certificate to match the distributor's signature
