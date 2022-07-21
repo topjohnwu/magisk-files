@@ -1,13 +1,7 @@
-## Magisk (f42c089b) (25102)
+## Magisk (9b61bdfc) (25201)
 
-- [MagiskInit] Fix a potential issue when stub cpio is used
-- [MagiskInit] Fix reboot to recovery when stub cpio is used
-- [General] Better data encryption detection
-- [General] Move the whole logging infrastructure into Rust
+- Sync to public release
 
-## Diffs to v25.1
+## Diffs to v25.2
 
-- [MagiskInit] Fix a potential issue when stub cpio is used
-- [MagiskInit] Fix reboot to recovery when stub cpio is used
-- [General] Better data encryption detection
-- [General] Move the whole logging infrastructure into Rust
+None
