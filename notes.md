@@ -1,7 +1,6 @@
-## Magisk (c3b4678f) (25204)
+## Magisk (a468fd94) (25205)
 
-- Make hiding the Magisk app 100% offline
-- Cleanups and minor refactoring of Zygisk
+- Fix denylist
 
 ## Diffs to v25.2
 
