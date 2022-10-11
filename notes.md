@@ -1,6 +1,7 @@
-## Magisk (38ab6858) (25203)
+## Magisk (c3b4678f) (25204)
 
-- Update app to target API 33
+- Make hiding the Magisk app 100% offline
+- Cleanups and minor refactoring of Zygisk
 
 ## Diffs to v25.2
 
