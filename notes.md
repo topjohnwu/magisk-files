@@ -1,6 +1,7 @@
-## Magisk (a468fd94) (25205)
+## Magisk (831a398b) (25206)
 
-- Fix denylist
+- Fix support on Linux < 3.6
+- Several minor under-the-hood improvements
 
 ## Diffs to v25.2
 
@@ -8,3 +9,4 @@
 - [MagiskPolicy] Fix minor bug in command line argument parsing
 - [Zygisk] Prevent crashing daemon in error
 - [Zygisk] Rewrite zygote code injection with new loader library approach
+- [App] Make stub patching 100% offline
