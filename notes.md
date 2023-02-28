@@ -1,10 +1,6 @@
-## Magisk (7dbfba76) (25207)
+## Magisk (e5641d5b) (25208)
 
-- [General] New magic mount backend. It supports loading modules into system with `overlayfs` files injected
-- [MagiskInit] Support replacing existing \*.rc files in `overlay.d`
-- [MagiskInit] Rewrite sepolicy.rules mounting and loading implementation
-- [Zygisk] Release new API version 4
-- [App] Support patching `init_boot.img` for Samsung ODIN firmware
+- Fix release builds
 
 ## Diffs to v25.2
 
