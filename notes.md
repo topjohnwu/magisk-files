@@ -1,6 +1,7 @@
-## Magisk (e5641d5b) (25208)
+## Magisk (2717feac) (25209)
 
-- Fix release builds
+- Fix release stub APKs
+- Several minor changes
 
 ## Diffs to v25.2
 
