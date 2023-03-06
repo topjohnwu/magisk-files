@@ -1,7 +1,7 @@
-## Magisk (2717feac) (25209)
+## Magisk (981ccabb) (25210)
 
-- Fix release stub APKs
-- Several minor changes
+- Fix Magisk app hiding when Zygisk is enabled
+- Fix a patching boot images on system-as-root devices
 
 ## Diffs to v25.2
 
