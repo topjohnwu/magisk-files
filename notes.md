@@ -1,10 +1,20 @@
-## Magisk (d0c93842) (26101)
+## Magisk (47d2d4e3) (26102)
 
-- Sync with public v26.1 release
-- [App] Fix crashing when revoking root permissions
-- [MagiskInit] Always prefer `ext4` partitions over `f2fs` when selecting the pre-init partition
-- [General] Restore module files' context/owner/group from mirror. This is a regression introduced in v26.0
+- Implement all logging code in the project with Rust
+- [MagiskBoot] Support extracting boot image from `payload.bin`
+- [Daemon] Make daemon socket a fixed path in MAGISKTMP
+- [resetprop] Support printing property context
+- [resetprop] Support only printing persistent properties from storage
+- [resetprop] Properly support setting persistent properties bypassing property_service
+- [MagiskSU] Support `-g` and `-G` options
+- [MagiskSU] Support switching mount namespace to PID with `-t`
 
 ## Diffs to v26.1
 
-- None
+- [MagiskBoot] Support extracting boot image from `payload.bin`
+- [Daemon] Make daemon socket a fixed path in MAGISKTMP
+- [resetprop] Support printing property context
+- [resetprop] Support only printing persistent properties from storage
+- [resetprop] Properly support setting persistent properties bypassing property_service
+- [MagiskSU] Support `-g` and `-G` options
+- [MagiskSU] Support switching mount namespace to PID with `-t`
