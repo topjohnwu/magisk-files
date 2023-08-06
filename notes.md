@@ -1,9 +1,8 @@
-## Magisk (d390ca2f) (26104)
+## Magisk (ee34f775) (26105)
 
-Lots of code is migrated over to Rust!
-
-- [App] Properly preserve `boot.img` when patching Samsung firmware with `init_boot.img`
-- [MagiskBoot] Directly handle AVB 1.0 signing and verification without going through Java implementation
+- [MagiskPolicy] Fix patching extended permissions
+- [MagiskPolicy] Support more syntax for extended permissions
+- [MagiskPolicy] Support print out the loaded sepolicy rules
 
 ## Diffs to v26.1
 
@@ -17,5 +16,8 @@ Lots of code is migrated over to Rust!
 - [resetprop] Properly support setting persistent properties bypassing property_service
 - [MagiskSU] Support `-g` and `-G` options
 - [MagiskSU] Support switching mount namespace to PID with `-t`
+- [MagiskPolicy] Fix patching extended permissions
+- [MagiskPolicy] Support more syntax for extended permissions
+- [MagiskPolicy] Support print out the loaded sepolicy rules
 - [App] Support patching boot image from ROM zips
 - [App] Properly preserve `boot.img` when patching Samsung firmware with `init_boot.img`
