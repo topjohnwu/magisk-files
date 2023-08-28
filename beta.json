@@ -1,12 +1,12 @@
 {
   "magisk": {
-    "version": "26.1",
-    "versionCode": "26100",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@26.1/app-release.apk",
-    "note": "https://topjohnwu.github.io/Magisk/releases/26100.md"
+    "version": "26.2",
+    "versionCode": "26200",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@26.2/app-release.apk",
+    "note": "https://topjohnwu.github.io/Magisk/releases/26200.md"
   },
   "stub": {
-    "versionCode": "36",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@26.1/stub-release.apk"
+    "versionCode": "37",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@26.2/stub-release.apk"
   }
 }
