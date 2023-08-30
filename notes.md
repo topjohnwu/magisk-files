@@ -1,7 +1,7 @@
-## Magisk (e47e869f) (26201)
+## Magisk (de00f1d5) (26202)
 
-- Sync with public release
+- [General] Fix device information detection script
 
 ## Diffs to v26.2
 
-- N/A
+- [General] Fix device information detection script
