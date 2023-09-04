@@ -1,10 +1,7 @@
-## Magisk (96e559fb) (26203)
+## Magisk (d4e552d0) (26301)
 
-- [General] Update BusyBox to 1.36.1
-- [General] Fix compiling toolchain that produces broken arm32 executables
+- Upstream to latest release
 
-## Diffs to v26.2
+## Diffs to v26.3
 
-- [General] Fix device information detection script
-- [General] Update BusyBox to 1.36.1
-- [General] Fix compiling toolchain that produces broken arm32 executables
+N/A
