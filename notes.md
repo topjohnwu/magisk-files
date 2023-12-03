@@ -1,7 +1,7 @@
-## Magisk (aa6c7c15) (26401)
+## Magisk (1dcf3255) (26402)
 
-- Sync with public release
+- [Zygisk] Introduce new code injection mechanism
 
 ## Diffs to v26.4
 
-N/A
+- [Zygisk] Introduce new code injection mechanism
