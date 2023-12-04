@@ -2,11 +2,11 @@
   "magisk": {
     "version": "1dcf3255",
     "versionCode": "26402",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@7235d30bc73c16c953b1bc16e41bad1c962878c9/app-debug.apk",
-    "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@7235d30bc73c16c953b1bc16e41bad1c962878c9/notes.md"
+    "link": "https://github.com/topjohnwu/magisk-files/raw/canary/app-debug.apk",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk-files/canary/notes.md"
   },
   "stub": {
     "versionCode": "38",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@7235d30bc73c16c953b1bc16e41bad1c962878c9/stub-debug.apk"
+    "link": "https://github.com/topjohnwu/magisk-files/raw/canary/stub-debug.apk"
   }
 }
