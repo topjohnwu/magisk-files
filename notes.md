@@ -1,8 +1,6 @@
-## Magisk (65207f96) (26404)
+## Magisk (356ee1fe) (26405)
 
-- [SEPolicy] Update libsepol to properly set some policy config bits
-- [MagiskBoot] Support compressing `init` so Magisk is installable on devices with small boot partitions
-- [ResetProp] Add new wait for property feature `resetprop -w`
+- Minor bug fixes
 
 ## Diffs to v26.4
 
@@ -10,3 +8,4 @@
 - [Zygisk] Support new signature introduced in U QPR2
 - [SEPolicy] Update libsepol to properly set some policy config bits
 - [MagiskBoot] Support compressing `init` so Magisk is installable on devices with small boot partitions
+- [ResetProp] Add new wait for property feature `resetprop -w`
