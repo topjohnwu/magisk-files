@@ -1,4 +1,4 @@
-## Magisk (356ee1fe) (26405)
+## Magisk (3d91a561) (27001)
 
 - Minor bug fixes
 
