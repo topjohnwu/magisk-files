@@ -1,11 +1,9 @@
-## Magisk (3d91a561) (27001)
+## Magisk (81658d45) (27002)
 
-- Minor bug fixes
+- [General] Use a minimal libc to build static executables (`magiskinit` and `magiskboot`) for smaller sizes
+- [MagiskInit] Rewrite 2SI logic for injecting `magiskinit` as `init`
+- [MagiskBoot] Support spliting kernel images without decompression
+- [App] Support patching Samsung firmware with images larger than 8GiB
+- [App] Use user-initiated job instead of foreground services on Android 14
 
-## Diffs to v26.4
-
-- [Zygisk] Introduce new code injection mechanism
-- [Zygisk] Support new signature introduced in U QPR2
-- [SEPolicy] Update libsepol to properly set some policy config bits
-- [MagiskBoot] Support compressing `init` so Magisk is installable on devices with small boot partitions
-- [ResetProp] Add new wait for property feature `resetprop -w`
+## Diffs to v27.0
