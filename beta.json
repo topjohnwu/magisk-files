@@ -2,11 +2,11 @@
   "magisk": {
     "version": "27.0",
     "versionCode": "27000",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@27.0/app-release.apk",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v27.0/Magisk-v27.0.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/27000.md"
   },
   "stub": {
-    "versionCode": "38",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@27.0/stub-release.apk"
+    "versionCode": "0",
+    "link": ""
   }
 }
